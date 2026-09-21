@@ -1,0 +1,2 @@
+Precise Settings Form Decision 
+The document settings flow uses React Hook Form with Zod validation and shadcn-style controls. It accepts Brief, Balanced, or Thorough detail levels (Balanced by default), a Dyslexia-friendly font toggle (off by default), and an optional keyword capped at 50 characters. Submission is local-only and displays a confirmation; backend and model integration remain out of scope.
